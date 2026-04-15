@@ -36,12 +36,12 @@ Based on:
 Two-level system:
 
 #### 🌍 Rule-Based MVP
-- Stars, files, and issues-based heuristics
+- Stars
+- files
+- issues-based heuristics
+- pull requests
+- and few more parameters
 
-#### 🌍 ML-Based System (Future)
-- Regression model trained on:
-  - Repo metadata
-  - User feedback data
 
 ---
 
