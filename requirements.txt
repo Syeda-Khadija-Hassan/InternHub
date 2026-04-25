@@ -1,0 +1,22 @@
+# Web Framework & Server
+Flask==3.0.2
+gunicorn==21.2.0
+
+# Database (SQLAlchemy & PostgreSQL)
+Flask-SQLAlchemy==3.1.1
+psycopg2-binary==2.9.9
+Flask-Migrate==4.0.7
+
+# Authentication & Security
+Flask-Login==0.6.3
+Werkzeug==3.0.1
+python-dotenv==1.0.1
+
+# API & External Services
+requests==2.31.0
+firebase-admin==6.5.0
+
+# Data & Intelligence (For your match scores/logs)
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
