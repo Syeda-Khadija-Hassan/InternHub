@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Database (if using SQLite for local testing)
+*.db
+instance/
+
+# Secrets
+.env
+config.py
